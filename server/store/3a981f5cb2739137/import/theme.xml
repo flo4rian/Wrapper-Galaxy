@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <theme id="import" name="Imported Assets" cc_theme_id="import"> 
 <char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y"><tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags></char>
-<prop id="gamingchair.png" name="gamingchair" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
-	<sound id="destroy.mp3" name="destroy" subtype="soundeffect" duration="2952" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 
 </theme> 
